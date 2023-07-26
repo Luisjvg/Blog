@@ -4,6 +4,7 @@
   "description": "Maquetacion de un Blogpost utilizando Grid Layout y Flexbox. Descargar repositorio, iniciar en index.html",
   "main": "index.js",
   "type": "module",
+  "homepage": "/Blog/",
   "scripts": {
     "start": "npm run index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/Luisjvg/Blog/issues"
   },
-  "homepage": "https://github.com/Luisjvg/Blog#readme",
   "dependencies": {
   },
   "devDependencies": {
